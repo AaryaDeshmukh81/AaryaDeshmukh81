@@ -2,36 +2,30 @@
 
 ### Web Developer | Data Analyst | Computer Science Engineering Student
 
-I'm a third-year Computer Science Engineering student passionate about
-building web applications, analyzing data, and creating practical
-technology solutions.
+I'm a third-year Computer Science Engineering student passionate about building web applications, analyzing data, and creating practical technology solutions.
 
-- 🎓 B.Tech Computer Science & Engineering Student
-- 💻 Web Developer & Data Analyst
-- 🤖 Interested in Artificial Intelligence
-- 📊 Interested in Data Analytics & Data-Driven Solutions
-- 🏆 Participated in 10+ hackathons
-- 🥇 Best All-Girls Team – HackWave 2.0 National Level Hackathon
-- 📍 Nashik, Maharashtra, India
+* 🎓 B.Tech Computer Science & Engineering Student
+* 💻 Web Developer & Data Analyst
+* 🤖 Interested in Artificial Intelligence
+* 📊 Interested in Data Analytics & Data-Driven Solutions
+* 🏆 Participated in 10+ hackathons
+* 📍 Nashik, Maharashtra, India
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Computer Science Engineering student who enjoys turning ideas
-into practical and user-friendly technology solutions.
+I am a Computer Science Engineering student who enjoys turning ideas into practical and user-friendly technology solutions.
 
 My primary areas of interest are:
 
-- 🌐 Web Development
-- 📊 Data Analytics
-- 🤖 Artificial Intelligence
-- 💾 Databases
-- ☁️ Cloud Computing
+* 🌐 Web Development
+* 📊 Data Analytics
+* 🤖 Artificial Intelligence
+* 💾 Databases
+* ☁️ Cloud Computing
 
-I enjoy learning through hands-on projects, hackathons and technical
-certifications while continuously improving my development and
-problem-solving skills.
+I enjoy learning through hands-on projects, hackathons and technical certifications while continuously improving my development and problem-solving skills.
 
 ---
 
@@ -39,26 +33,26 @@ problem-solving skills.
 
 ### 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### 📊 Data & Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1E4F8C?style=for-the-badge&logo=sas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E4F8C?style=for-the-badge\&logo=sas\&logoColor=white)
 
 ### 🧰 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
@@ -66,8 +60,7 @@ problem-solving skills.
 
 ## 🤖 AI STEM Tutor
 
-An AI-powered STEM learning platform designed to provide
-personalized assistance and improve student engagement.
+An AI-powered STEM learning platform designed to provide personalized assistance and improve student engagement.
 
 **Focus:** AI | Web Development | Education
 
@@ -77,9 +70,7 @@ personalized assistance and improve student engagement.
 
 ## 💳 RecoveryAI
 
-An AI-powered payment recovery dashboard designed to identify
-failed payments, prioritize revenue at risk, and recommend
-recovery strategies.
+An AI-powered payment recovery dashboard designed to identify failed payments, prioritize revenue at risk, and recommend recovery strategies.
 
 **Tech:** JavaScript
 
@@ -91,8 +82,7 @@ recovery strategies.
 
 ## 📊 SkillGap
 
-A web-based project focused on helping users understand skill
-requirements and identify areas for improvement.
+A web-based project focused on helping users understand skill requirements and identify areas for improvement.
 
 **Tech:** JavaScript
 
@@ -104,8 +94,7 @@ requirements and identify areas for improvement.
 
 ## ⏳ CodeTime-Capsule
 
-A personal coding learning tracker that helps users record
-coding problems, mistakes, solutions and lessons learned.
+A personal coding learning tracker that helps users record coding problems, mistakes, solutions and lessons learned.
 
 **Tech:** JavaScript
 
@@ -115,25 +104,16 @@ coding problems, mistakes, solutions and lessons learned.
 
 ---
 
-# 🏆 Achievements
-
-- 🥇 Winner – Best All-Girls Team at HackWave 2.0 National Level Hackathon
-- 🚀 Participated in 10+ hackathons
-- 📜 Earned 10+ certifications in Software Development, AI,
-  Cloud Computing and Data Analytics
-
----
-
 # 📚 Certifications
 
-- Project Management Foundations – LinkedIn Learning
-- Hands-on Workshop – LabOpsTech
-- SAS Programming in 7 Steps – Infosys Springboard
-- Illuminate Entrepreneurship Bootcamp – E-Cell IIT Bombay
-- NPTEL – The Joy of Computing Using Python
-- Java Programming for Beginners – Simplilearn
-- Data Science & Analytics – HP LIFE
-- Introduction to Web Development – Great Learning
+* Project Management Foundations – LinkedIn Learning
+* Hands-on Workshop – LabOpsTech
+* SAS Programming in 7 Steps – Infosys Springboard
+* Illuminate Entrepreneurship Bootcamp – E-Cell IIT Bombay
+* NPTEL – The Joy of Computing Using Python
+* Java Programming for Beginners – Simplilearn
+* Data Science & Analytics – HP LIFE
+* Introduction to Web Development – Great Learning
 
 ---
 
@@ -155,7 +135,7 @@ coding problems, mistakes, solutions and lessons learned.
 
 </p>
 
-📧 **Email:** aaruudeshmukh29@gmail.com
+📧 **Email:** [aaruudeshmukh29@gmail.com](mailto:aaruudeshmukh29@gmail.com)
 
 📍 **Nashik, Maharashtra, India**
 
