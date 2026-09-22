@@ -12,11 +12,10 @@ technology solutions.
 
 - 🎓 B.Tech Computer Science & Engineering Student
 - 💻 Web Developer & Data Analyst
-- 🌐 Interested in Web Development
-- 📊 Interested in Data Analytics & Data-Driven Solutions
-- 🤖 Interested in Artificial Intelligence
-- 💾 Interested in Databases
-- ☁️ Interested in Cloud Computing
+- 📊 Data Analytics & Data-Driven Solutions
+- 🤖 Artificial Intelligence
+- 💾 Database Management
+- ☁️ Cloud Computing
 - 🏆 Participated in 10+ hackathons
 - 📍 Nashik, Maharashtra, India
 
@@ -26,7 +25,7 @@ problem-solving skills.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -63,20 +62,6 @@ personalized assistance and improve student engagement.
 **Focus:** AI | Web Development | Education
 
 🔗 **[View Project](https://github.com/AaryaDeshmukh81/AI-STEM-Tutor-By-TechTrio-)**
-
----
-
-## 💳 RecoveryAI
-
-An AI-powered payment recovery dashboard designed to identify
-failed payments, prioritize revenue at risk, and recommend
-recovery strategies.
-
-**Tech:** JavaScript
-
-**Focus:** Data | Dashboard | AI | Revenue Recovery
-
-🔗 **[View Project](https://github.com/AaryaDeshmukh81/RecoveryAI)**
 
 ---
 
