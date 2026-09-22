@@ -130,6 +130,4 @@ coding problems, mistakes, solutions, and lessons learned.
 
 ### ⭐ Thanks for visiting my profile!
 
-Feel free to explore my repositories and projects.
 
-**Let's build, learn and grow together! 🚀**
