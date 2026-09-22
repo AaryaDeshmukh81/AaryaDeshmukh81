@@ -12,7 +12,6 @@ technology solutions.
 - 📊 Interested in Data Analytics & Data-Driven Solutions
 - 🏆 Participated in 10+ hackathons
 - 🥇 Best All-Girls Team – HackWave 2.0 National Level Hackathon
-- 🌱 Currently learning React.js, AWS Cloud & AI Agents
 - 📍 Nashik, Maharashtra, India
 
 ---
@@ -119,7 +118,6 @@ coding problems, mistakes, solutions and lessons learned.
 # 🏆 Achievements
 
 - 🥇 Winner – Best All-Girls Team at HackWave 2.0 National Level Hackathon
-- 💰 Received ₹5,000 cash prize at HackWave 2.0
 - 🚀 Participated in 10+ hackathons
 - 📜 Earned 10+ certifications in Software Development, AI,
   Cloud Computing and Data Analytics
@@ -136,28 +134,6 @@ coding problems, mistakes, solutions and lessons learned.
 - Java Programming for Beginners – Simplilearn
 - Data Science & Analytics – HP LIFE
 - Introduction to Web Development – Great Learning
-
----
-
-# 🌱 Currently Learning
-
-- ⚛️ React.js
-- ☁️ AWS Cloud
-- 🤖 AI Agents
-- 📊 Data Analytics
-- 💻 Full-Stack Development
-
----
-
-# 🎯 Career Interests
-
-I'm currently interested in opportunities related to:
-
-- 🌐 Web Development
-- 📊 Data Analytics
-- 💻 Software Development
-- 🤖 AI-powered Applications
-- 🚀 Internships & Hackathons
 
 ---
 
