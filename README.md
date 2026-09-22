@@ -1,48 +1,192 @@
-## 🚀 Featured Projects
+# Hi 👋, I'm Aarya Deshmukh
 
-### 🎯 SkillGap
+### Web Developer | Data Analyst | Computer Science Engineering Student
 
-A web-based project focused on helping users identify skill gaps
-and understand the skills they need to improve for their career goals.
+I'm a third-year Computer Science Engineering student passionate about
+building web applications, analyzing data, and creating practical
+technology solutions.
 
-**Focus:** Web Development | Career Development | User Experience
-
-🔗 [View Project](https://github.com/AaryaDeshmukh81/SkillGap)
-
----
-
-### ⏳ CodeTime-Capsule
-
-A web application that allows users to preserve and revisit
-their coding journey and development history.
-
-**Focus:** Web Development | JavaScript | User Experience
-
-🔗 [View Project](https://github.com/AaryaDeshmukh81/CodeTime-Capsule)
+- 🎓 B.Tech Computer Science & Engineering Student
+- 💻 Web Developer & Data Analyst
+- 🤖 Interested in Artificial Intelligence
+- 📊 Interested in Data Analytics & Data-Driven Solutions
+- 🏆 Participated in 10+ hackathons
+- 🥇 Best All-Girls Team – HackWave 2.0 National Level Hackathon
+- 🌱 Currently learning React.js, AWS Cloud & AI Agents
+- 📍 Nashik, Maharashtra, India
 
 ---
 
-### 🤖 AI STEM Tutor
+## 👩‍💻 About Me
+
+I am a Computer Science Engineering student who enjoys turning ideas
+into practical and user-friendly technology solutions.
+
+My primary areas of interest are:
+
+- 🌐 Web Development
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence
+- 💾 Databases
+- ☁️ Cloud Computing
+
+I enjoy learning through hands-on projects, hackathons and technical
+certifications while continuously improving my development and
+problem-solving skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📊 Data & Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E4F8C?style=for-the-badge&logo=sas&logoColor=white)
+
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 🚀 My Projects
+
+## 🤖 AI STEM Tutor
 
 An AI-powered STEM learning platform designed to provide
 personalized assistance and improve student engagement.
 
 **Focus:** AI | Web Development | Education
 
----
-
-### 📊 Student Progress Monitoring System
-
-A web-based system designed to track student attendance,
-academic performance, and generate progress reports.
-
-**Focus:** Web Development | Data | Database
+🔗 **[View Project](https://github.com/AaryaDeshmukh81/AI-STEM-Tutor-By-TechTrio-)**
 
 ---
 
-### ♿ Mobility System for People with Disabilities
+## 💳 RecoveryAI
 
-An accessibility-focused solution designed to improve mobility
-and navigation for people with disabilities.
+An AI-powered payment recovery dashboard designed to identify
+failed payments, prioritize revenue at risk, and recommend
+recovery strategies.
 
-**Focus:** Accessibility | Technology | Problem Solving
+**Tech:** JavaScript
+
+**Focus:** Data | Dashboard | AI | Revenue Recovery
+
+🔗 **[View Project](https://github.com/AaryaDeshmukh81/RecoveryAI)**
+
+---
+
+## 📊 SkillGap
+
+A web-based project focused on helping users understand skill
+requirements and identify areas for improvement.
+
+**Tech:** JavaScript
+
+**Focus:** Web Development | Career Development | Skills Analysis
+
+🔗 **[View Project](https://github.com/AaryaDeshmukh81/SkillGap)**
+
+---
+
+## ⏳ CodeTime-Capsule
+
+A personal coding learning tracker that helps users record
+coding problems, mistakes, solutions and lessons learned.
+
+**Tech:** JavaScript
+
+**Focus:** Web Development | Learning Tracker | Productivity
+
+🔗 **[View Project](https://github.com/AaryaDeshmukh81/CodeTime-Capsule)**
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Winner – Best All-Girls Team at HackWave 2.0 National Level Hackathon
+- 💰 Received ₹5,000 cash prize at HackWave 2.0
+- 🚀 Participated in 10+ hackathons
+- 📜 Earned 10+ certifications in Software Development, AI,
+  Cloud Computing and Data Analytics
+
+---
+
+# 📚 Certifications
+
+- Project Management Foundations – LinkedIn Learning
+- Hands-on Workshop – LabOpsTech
+- SAS Programming in 7 Steps – Infosys Springboard
+- Illuminate Entrepreneurship Bootcamp – E-Cell IIT Bombay
+- NPTEL – The Joy of Computing Using Python
+- Java Programming for Beginners – Simplilearn
+- Data Science & Analytics – HP LIFE
+- Introduction to Web Development – Great Learning
+
+---
+
+# 🌱 Currently Learning
+
+- ⚛️ React.js
+- ☁️ AWS Cloud
+- 🤖 AI Agents
+- 📊 Data Analytics
+- 💻 Full-Stack Development
+
+---
+
+# 🎯 Career Interests
+
+I'm currently interested in opportunities related to:
+
+- 🌐 Web Development
+- 📊 Data Analytics
+- 💻 Software Development
+- 🤖 AI-powered Applications
+- 🚀 Internships & Hackathons
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/AaryaDeshmukh81">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aarya-deshmukh-ad29016">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/AaryaDeshmukh29">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+📧 **Email:** aaruudeshmukh29@gmail.com
+
+📍 **Nashik, Maharashtra, India**
+
+---
+
+## ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and projects.
+
+**Let's build, learn and grow together! 🚀**
