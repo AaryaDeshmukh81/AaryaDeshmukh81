@@ -52,42 +52,10 @@ problem-solving skills.
 
 ---
 
-# 🚀 My Projects
+## 🚀 Projects
 
-## 🤖 AI STEM Tutor
-
-An AI-powered STEM learning platform designed to provide
-personalized assistance and improve student engagement.
-
-**Focus:** AI | Web Development | Education
-
-🔗 **[View Project](https://github.com/AaryaDeshmukh81/AI-STEM-Tutor-By-TechTrio-)**
-
----
-
-## 📊 SkillGap
-
-A web-based project focused on helping users understand skill
-requirements and identify areas for improvement.
-
-**Tech:** JavaScript
-
-**Focus:** Web Development | Career Development | Skills Analysis
-
-🔗 **[View Project](https://github.com/AaryaDeshmukh81/SkillGap)**
-
----
-
-## ⏳ CodeTime-Capsule
-
-A personal coding learning tracker that helps users record
-coding problems, mistakes, solutions, and lessons learned.
-
-**Tech:** JavaScript
-
-**Focus:** Web Development | Learning Tracker | Productivity
-
-🔗 **[View Project](https://github.com/AaryaDeshmukh81/CodeTime-Capsule)**
+Check out my GitHub repositories to explore my projects in
+Web Development, Data Analytics, and AI.
 
 ---
 
